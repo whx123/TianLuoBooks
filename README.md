@@ -1,61 +1,63 @@
- - Êı¾İ½á¹¹ÓëËã·¨
+ - æ•°æ®ç»“æ„ä¸ç®—æ³•
  
- Êı¾İ½á¹¹ÓëËã·¨_CÓïÑÔ Á´½Ó: https://pan.baidu.com/s/13Oqigut7_gv2gvmRE3OpLg ÌáÈ¡Âë: 4qjp 
- Êı¾İ½á¹¹ÓëËã·¨_Java  Á´½Ó: https://pan.baidu.com/s/1ZY9dzwXR-zoA7fFnDFjfBA ÌáÈ¡Âë: xizp 
- Ëã·¨µ¼ÂÛ             Á´½Ó: https://pan.baidu.com/s/1GQQsckiuKcR2KwpPkUakjQ ÌáÈ¡Âë: y33a 
+ æ•°æ®ç»“æ„ä¸ç®—æ³•_Cè¯­è¨€ é“¾æ¥: https://pan.baidu.com/s/13Oqigut7_gv2gvmRE3OpLg æå–ç : 4qjp 
+ 
+ æ•°æ®ç»“æ„ä¸ç®—æ³•_Java  é“¾æ¥: https://pan.baidu.com/s/1ZY9dzwXR-zoA7fFnDFjfBA æå–ç : xizp 
+ 
+ ç®—æ³•å¯¼è®º             é“¾æ¥: https://pan.baidu.com/s/1GQQsckiuKcR2KwpPkUakjQ æå–ç : y33a 
 
- - ¼ÆËã»úÍøÂç
+ - è®¡ç®—æœºç½‘ç»œ
 
- ¼ÆËã»úÍøÂç_×Ô¶¥ÏòÏÂ Á´½Ó: https://pan.baidu.com/s/16bFmf9KJ68A8HOr24Ru8KQ ÌáÈ¡Âë: fihr 
- ¼ÆËã»úÍøÂç_Í¼½âHTTP     Á´½Ó: https://pan.baidu.com/s/1BNfQ2EyKmdbtTUv8zh_NMw ÌáÈ¡Âë: cqju 
- ¼ÆËã»úÍøÂç_ÍøÂçÊÇÈçºÎÁ¬½ÓµÄ Á´½Ó: https://pan.baidu.com/s/1PMEk2gr_xgYSCGqOV-qe_A ÌáÈ¡Âë: pcb4 
+ è®¡ç®—æœºç½‘ç»œ_è‡ªé¡¶å‘ä¸‹ é“¾æ¥: https://pan.baidu.com/s/16bFmf9KJ68A8HOr24Ru8KQ æå–ç : fihr 
+ è®¡ç®—æœºç½‘ç»œ_å›¾è§£HTTP     é“¾æ¥: https://pan.baidu.com/s/1BNfQ2EyKmdbtTUv8zh_NMw æå–ç : cqju 
+ è®¡ç®—æœºç½‘ç»œ_ç½‘ç»œæ˜¯å¦‚ä½•è¿æ¥çš„ é“¾æ¥: https://pan.baidu.com/s/1PMEk2gr_xgYSCGqOV-qe_A æå–ç : pcb4 
 
- - Êı¾İ¿â
+ - æ•°æ®åº“
 
- Êı¾İ¿â_MySQL¼¼ÊõÄÚÄ» Á´½Ó: https://pan.baidu.com/s/1QD0vyts5zBnlgMA6xOz0zA ÌáÈ¡Âë: p3xv 
- Êı¾İ¿â_¸ßĞÔÄÜMysql Á´½Ó: https://pan.baidu.com/s/1_wqdFK57v0k1-iMpl6c7Vw ÌáÈ¡Âë: ahq5 
- Êı¾İ¿â_SQL±ØÖª±Ø»á Á´½Ó: https://pan.baidu.com/s/1YQY4b9bgzTak3iVgrvDzXw ÌáÈ¡Âë: s6yk 
+ æ•°æ®åº“_MySQLæŠ€æœ¯å†…å¹• é“¾æ¥: https://pan.baidu.com/s/1QD0vyts5zBnlgMA6xOz0zA æå–ç : p3xv 
+ æ•°æ®åº“_é«˜æ€§èƒ½Mysql é“¾æ¥: https://pan.baidu.com/s/1_wqdFK57v0k1-iMpl6c7Vw æå–ç : ahq5 
+ æ•°æ®åº“_SQLå¿…çŸ¥å¿…ä¼š é“¾æ¥: https://pan.baidu.com/s/1YQY4b9bgzTak3iVgrvDzXw æå–ç : s6yk 
 
- - »º´æ
+ - ç¼“å­˜
 
- »º´æ_RedisÉè¼ÆÓëÊµÏÖ Á´½Ó: https://pan.baidu.com/s/1tc8wQjVrfFypXnkDQ5jCQg ÌáÈ¡Âë: c81y 
- »º´æ_Redis¿ª·¢ÓëÔËÎ¬ Á´½Ó: https://pan.baidu.com/s/1BqnaZE_SzSvAnl3gBi8z_g ÌáÈ¡Âë: 899k 
+ ç¼“å­˜_Redisè®¾è®¡ä¸å®ç° é“¾æ¥: https://pan.baidu.com/s/1tc8wQjVrfFypXnkDQ5jCQg æå–ç : c81y 
+ ç¼“å­˜_Rediså¼€å‘ä¸è¿ç»´ é“¾æ¥: https://pan.baidu.com/s/1BqnaZE_SzSvAnl3gBi8z_g æå–ç : 899k 
 
- - Java ±Ø±¸Êé¼®
+ - Java å¿…å¤‡ä¹¦ç±
 
- Effectvie Java Á´½Ó: https://pan.baidu.com/s/17CqlOZGqVTjsJ2Yd7Q0z6Q ÌáÈ¡Âë: zv2k 
- Java ±à³ÌË¼Ïë  Á´½Ó: https://pan.baidu.com/s/1A_m16KKfuVNjTf7k2Fw9xg ÌáÈ¡Âë: j7m3
- ÖØ¹¹~¸ÄÉÆ¼ÈÓĞ´úÂëÉè¼Æ  Á´½Ó: https://pan.baidu.com/s/1A_m16KKfuVNjTf7k2Fw9xg ÌáÈ¡Âë: j7m3 
- ÉîÈëÀí½âJavaĞéÄâ»ú   Á´½Ó: https://pan.baidu.com/s/1kjpu0nDvbH5C7hhKjaqY2Q ÌáÈ¡Âë: qxcd 
- °¢Àï¿ª·¢ÊÖ²á Á´½Ó: https://pan.baidu.com/s/12hqs0Xo-DMmNMtSdzVyVuA ÌáÈ¡Âë: 26ju 
- Head FirstÉè¼ÆÄ£Ê½ Á´½Ó: https://pan.baidu.com/s/1qqUwR1m1B3KOvPBq3VOYFg ÌáÈ¡Âë: qp6c 
+ Effectvie Java é“¾æ¥: https://pan.baidu.com/s/17CqlOZGqVTjsJ2Yd7Q0z6Q æå–ç : zv2k 
+ Java ç¼–ç¨‹æ€æƒ³  é“¾æ¥: https://pan.baidu.com/s/1A_m16KKfuVNjTf7k2Fw9xg æå–ç : j7m3
+ é‡æ„~æ”¹å–„æ—¢æœ‰ä»£ç è®¾è®¡  é“¾æ¥: https://pan.baidu.com/s/1A_m16KKfuVNjTf7k2Fw9xg æå–ç : j7m3 
+ æ·±å…¥ç†è§£Javaè™šæ‹Ÿæœº   é“¾æ¥: https://pan.baidu.com/s/1kjpu0nDvbH5C7hhKjaqY2Q æå–ç : qxcd 
+ é˜¿é‡Œå¼€å‘æ‰‹å†Œ é“¾æ¥: https://pan.baidu.com/s/12hqs0Xo-DMmNMtSdzVyVuA æå–ç : 26ju 
+ Head Firstè®¾è®¡æ¨¡å¼ é“¾æ¥: https://pan.baidu.com/s/1qqUwR1m1B3KOvPBq3VOYFg æå–ç : qp6c 
 
- - ÏûÏ¢¶ÓÁĞ
+ - æ¶ˆæ¯é˜Ÿåˆ—
 
- ÏûÏ¢¶ÓÁĞ_RocketMQ¼¼ÊõÄÚÄ» Á´½Ó: https://pan.baidu.com/s/1FEv2GEGqGKp4kzWibc_jJg ÌáÈ¡Âë: hm7y 
- Apache KafkaÔ´ÂëÆÊÎö Á´½Ó: https://pan.baidu.com/s/10N3vXcKbbdcjzbE6ekx7nQ ÌáÈ¡Âë: zxs2 
+ æ¶ˆæ¯é˜Ÿåˆ—_RocketMQæŠ€æœ¯å†…å¹• é“¾æ¥: https://pan.baidu.com/s/1FEv2GEGqGKp4kzWibc_jJg æå–ç : hm7y 
+ Apache Kafkaæºç å‰–æ é“¾æ¥: https://pan.baidu.com/s/10N3vXcKbbdcjzbE6ekx7nQ æå–ç : zxs2 
 
-- ·Ö²¼Ê½
+- åˆ†å¸ƒå¼
 
-´ÓPaxosµ½Zookeeper  ·Ö²¼Ê½Ò»ÖÂĞÔÔ­ÀíÓëÊµ¼ù Á´½Ó: https://pan.baidu.com/s/1A4jVEgThd4Kg66NdweWtZA ÌáÈ¡Âë: 9v9g
-·Ö²¼Ê½_springboot½ÒÃØ Á´½Ó: https://pan.baidu.com/s/1nr2wK61uavRgWUE3PJ9Guw ÌáÈ¡Âë: ph6q 
+ä»Paxosåˆ°Zookeeper  åˆ†å¸ƒå¼ä¸€è‡´æ€§åŸç†ä¸å®è·µ é“¾æ¥: https://pan.baidu.com/s/1A4jVEgThd4Kg66NdweWtZA æå–ç : 9v9g
+åˆ†å¸ƒå¼_springbootæ­ç§˜ é“¾æ¥: https://pan.baidu.com/s/1nr2wK61uavRgWUE3PJ9Guw æå–ç : ph6q 
 
 - netty
 
-netty ÊµÕ½ Á´½Ó: https://pan.baidu.com/s/11rJ85AJI8Fi0lSqiRLkPTg ÌáÈ¡Âë: m8qg 
+netty å®æˆ˜ é“¾æ¥: https://pan.baidu.com/s/11rJ85AJI8Fi0lSqiRLkPTg æå–ç : m8qg 
 
 - linux
  
-Äñ¸çµÄLinuxË½·¿²Ë ¡ª¡ª»ù´¡Æª Á´½Ó: https://pan.baidu.com/s/17xo29ar2yYN6XuwGwjfUwg ÌáÈ¡Âë: 2srz
+é¸Ÿå“¥çš„Linuxç§æˆ¿èœ â€”â€”åŸºç¡€ç¯‡ é“¾æ¥: https://pan.baidu.com/s/17xo29ar2yYN6XuwGwjfUwg æå–ç : 2srz
 
 - leetcode
 
-Google Ê¦ĞÖµÄË¢Ìâ±Ê¼Ç  Á´½Ó: https://pan.baidu.com/s/1DoZ2VkcTtvG-VcK63SIvfQ ÌáÈ¡Âë: 7hv4
-leetcode_Ëã·¨Ğ¡³­ Á´½Ó: https://pan.baidu.com/s/1RhsQuBb2VhyGmy9qJbwtlQ ÌáÈ¡Âë: tvdy 
+Google å¸ˆå…„çš„åˆ·é¢˜ç¬”è®°  é“¾æ¥: https://pan.baidu.com/s/1DoZ2VkcTtvG-VcK63SIvfQ æå–ç : 7hv4
+leetcode_ç®—æ³•å°æŠ„ é“¾æ¥: https://pan.baidu.com/s/1RhsQuBb2VhyGmy9qJbwtlQ æå–ç : tvdy 
 
-- ÃâÔğÉùÃ÷
+- å…è´£å£°æ˜
 
-Êé¼®ÕûÀíÓÚÍøÂç£¬Ö»ÊÇÎªÁËÑ§Ï°ÓÃ£¬ÈçÓĞÇÖÈ¨£¬ÂíÉÏÁªÏµÎÒ£¬ÎÒÁ¢ÂíÉ¾³ı¶ÔÓ¦Á´½Ó¡£
+ä¹¦ç±æ•´ç†äºç½‘ç»œï¼Œåªæ˜¯ä¸ºäº†å­¦ä¹ ç”¨ï¼Œå¦‚æœ‰ä¾µæƒï¼Œé©¬ä¸Šè”ç³»æˆ‘ï¼Œæˆ‘ç«‹é©¬åˆ é™¤å¯¹åº”é“¾æ¥ã€‚
 
 
 
